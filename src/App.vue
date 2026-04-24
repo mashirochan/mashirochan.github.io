@@ -12,6 +12,12 @@
 
         <template v-slot:append>
           <v-btn
+            icon="mdi-github"
+            class="m-2"
+            href="https://www.github.com/mashirochan/"
+            target="_blank"
+          />
+          <v-btn
             icon="mdi-theme-light-dark"
             class="m-2"
             @click="$vuetify.theme.cycle()"
