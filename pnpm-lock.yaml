@@ -17,9 +17,6 @@ importers:
       '@mdi/font':
         specifier: 7.4.47
         version: 7.4.47
-      prettier:
-        specifier: ^3.8.3
-        version: 3.8.3
       vue:
         specifier: ^3.5.30
         version: 3.5.33(typescript@5.9.3)
@@ -54,6 +51,9 @@ importers:
       npm-run-all2:
         specifier: ^8.0.4
         version: 8.0.4
+      prettier:
+        specifier: ^3.8.3
+        version: 3.8.3
       sass-embedded:
         specifier: ^1.98.0
         version: 1.99.0
